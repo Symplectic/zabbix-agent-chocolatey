@@ -14,6 +14,9 @@ Please also file any issues you find using the project's [Issue tracker](https:/
 ## Release Notes
 
 
+#### 2020-01-17 Release 3.4.6 (update)
+* Updated download URL
+
 #### 2018-04-05 Release 3.4.6
 * Bumped up to Zabbix 3.4.6
 * Updated logo
